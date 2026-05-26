@@ -25,3 +25,6 @@ This module covers identifying, diagnosing, and resolving common GPU and TPU fai
 7. [**Thermal & Power Issues**](07-thermal-power-issues.md)
    - Thermal throttling diagnostics
    - Power cap limits and clock monitoring
+8. [**Real-World Issues & FAQ**](08-real-world-issues-faq.md)
+   - 34 detailed production issues, root-cause analyses, and solutions
+

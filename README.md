@@ -30,7 +30,7 @@
 | # | Module | Description | Difficulty |
 |---|--------|-------------|------------|
 | 03 | [**Monitoring & Observability**](03-monitoring-observability/) | DCGM, Prometheus, Grafana dashboards, alerting | 🟡 Intermediate |
-| 04 | [**Troubleshooting & Debugging**](04-troubleshooting-debugging/) | OOM, CUDA errors, XID errors, NCCL failures, thermal issues | 🟡 Intermediate |
+| 04 | [**Troubleshooting & Debugging**](04-troubleshooting-debugging/) | OOM, CUDA errors, XID errors, NCCL failures, thermal issues, 34+ real-world issues | 🟡 Intermediate |
 | 05 | [**Cost Optimization**](05-cost-optimization/) | Spot instances, GPU sharing, MIG, autoscaling, right-sizing | 🟡 Intermediate |
 
 ### Part III: Scaling
