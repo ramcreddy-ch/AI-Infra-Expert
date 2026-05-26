@@ -24,7 +24,7 @@
 | # | Module | Description | Difficulty |
 |---|--------|-------------|------------|
 | 01 | [**GPU & TPU Fundamentals**](01-fundamentals/) | Architecture, CUDA, memory hierarchy, drivers | 🟢 Beginner |
-| 02 | [**Kubernetes for AI Workloads**](02-kubernetes-gpu-management/) | Device plugins, GPU Operator, scheduling, node affinity | 🟢 Beginner |
+| 02 | [**Kubernetes for AI Workloads**](02-kubernetes-gpu-management/) | Device plugins, GPU Operator, scheduling, node affinity, EKS & K8s issues | 🟢 Beginner |
 
 ### Part II: Operations
 | # | Module | Description | Difficulty |

@@ -33,3 +33,6 @@ Managing GPUs in Kubernetes requires orchestrating hardware drivers, runtime too
    - Pods stuck in `Pending` due to GPU resources
    - Driver mounting and container runtime failures
    - Troubleshooting steps and validation scripts
+8. [**EKS & Kubernetes GPU Real-Time Issues**](08-eks-k8s-real-time-issues.md)
+   - 10 detailed production issues and answers specific to Amazon EKS and Kubernetes GPU clusters
+
